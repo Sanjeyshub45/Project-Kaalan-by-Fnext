@@ -7,36 +7,40 @@ Built with Flutter and powered by Firebase for real-time data updates.
 ---
 ## 📱 UI Preview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image.png" width="300">
-  <br><b>Login Screen</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image.png" width="250"><br>
+      <b>Login Screen</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy.png" width="250"><br>
+      <b>Home Screen</b>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy.png" width="300">
-  <br><b>Home Screen</b>
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%205.png" width="250"><br>
+      <b>Vendor Screen</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%204.png" width="250"><br>
+      <b>Sales History</b>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%205.png" width="300">
-  <br><b>Vendor Screen</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%204.png" width="300">
-  <br><b>Sales History Screen</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%203.png" width="300">
-  <br><b>Settings Screen</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%202.png" width="300">
-  <br><b>Report Screen</b>
-</p>
-
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%203.png" width="250"><br>
+      <b>Settings</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%202.png" width="250"><br>
+      <b>Reports</b>
+    </td>
+  </tr>
+</table>
 
 
 ---
