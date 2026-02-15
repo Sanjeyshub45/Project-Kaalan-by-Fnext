@@ -5,11 +5,38 @@ Kaalan is a modern vendor sales & admin management application designed to track
 Built with Flutter and powered by Firebase for real-time data updates.
 
 ---
+## 📱 UI Preview
 
-# 📱 UI Preview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image.png" width="300">
+  <br><b>Login Screen</b>
+</p>
 
-![Login Screen](https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image.png)
-<img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image.png" width="300">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy.png" width="300">
+  <br><b>Home Screen</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%205.png" width="300">
+  <br><b>Vendor Screen</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%204.png" width="300">
+  <br><b>Sales History Screen</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%203.png" width="300">
+  <br><b>Settings Screen</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image%20copy%202.png" width="300">
+  <br><b>Report Screen</b>
+</p>
+
 
 
 ---
