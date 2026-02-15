@@ -38,7 +38,7 @@ Built with Flutter and powered by Firebase for real-time data updates.
 
 ---
 
-# 🚀 Features
+#  Features
 
 -  Google Authentication (Admin Access)
 -  Daily Packet Tracking
@@ -64,11 +64,11 @@ Built with Flutter and powered by Firebase for real-time data updates.
 
 ---
 
-#  License
+# License
 This project is licensed under Fnext .
 ---
 
-# 👨‍💻 Creator
+# Creator
 **Sanjey Sivagurunathan**   
 ---
-⭐ If you like this project, don't forget to star the repository!
+ If you like this project, don't forget to star the repository!
