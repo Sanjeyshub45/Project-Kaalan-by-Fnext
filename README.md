@@ -1,11 +1,11 @@
-# 🥬 Kaalan by Fnext – Vendor Sales & Admin Management App
+# Kaalan by Fnext – Vendor Sales & Admin Management App
 
 Kaalan is a modern vendor sales & admin management application designed to track daily sales, monitor revenue, manage vendors, and handle pending payments — all in one clean dashboard.
 
 Built with Flutter and powered by Firebase for real-time data updates.
 
 ---
-## 📱 UI Preview
+##  UI Preview
 
 <table align="center">
   <tr>
@@ -35,29 +35,24 @@ Built with Flutter and powered by Firebase for real-time data updates.
     </td>
   </tr>
 </table>
----
-
-## 📊 Dashboard Overview
-
-![Dashboard Screen](https://your-image-link-here.com/dashboard.png)
 
 ---
 
 # 🚀 Features
 
-- 🔐 Google Authentication (Admin Access)
-- 📦 Daily Packet Tracking
-- 💰 Revenue Monitoring
-- ⏳ Pending Payment Calculation
-- 🧑‍💼 Vendor Management
-- ➕ Add New Sales Entry
-- 📜 Real-Time Sales History
-- 📊 Dashboard Analytics Overview
-- ⚡ Firebase Real-Time Sync
+-  Google Authentication (Admin Access)
+-  Daily Packet Tracking
+-  Revenue Monitoring
+-  Pending Payment Calculation
+-  Vendor Management
+-  Add New Sales Entry
+-  Real-Time Sales History
+-  Dashboard Analytics Overview
+-  Firebase Real-Time Sync
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Layer        | Technology        |
 |--------------|-------------------|
@@ -69,8 +64,8 @@ Built with Flutter and powered by Firebase for real-time data updates.
 
 ---
 
-# 📄 License
-This project is licensed under the MIT License.
+#  License
+This project is licensed under Fnext .
 ---
 
 # 👨‍💻 Creator
