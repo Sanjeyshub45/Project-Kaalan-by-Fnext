@@ -8,7 +8,7 @@ Built with Flutter and powered by Firebase for real-time data updates.
 
 # 📱 UI Preview
 
-![Login Screen]([https://your-image-link-here.com/login.png](https://github.com/Sanjeyshub45/Project-Kaalan-by-Fnext/blob/main/images/image.png))
+![Login Screen](https://raw.githubusercontent.com/Sanjeyshub45/Project-Kaalan-by-Fnext/main/images/image.png)
 
 ---
 
